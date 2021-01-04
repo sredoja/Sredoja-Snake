@@ -266,7 +266,7 @@ function movimento(evt) {
             case 18:
                 nivel = nivel-5
             case 13:
-                alert('Jogo pausado. Pressione ENTER      .')
+                alert('Jogo pausado. Pressione ENTER para continuar.')
         }
 }
 
